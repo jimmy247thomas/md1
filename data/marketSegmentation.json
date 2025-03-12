@@ -1,0 +1,19 @@
+{
+  "marketSegments": [
+    {
+      "segment": "Segment A",
+      "revenue": 155.4,
+      "growthRate": 4.2
+    },
+    {
+      "segment": "Segment B",
+      "revenue": 210.8,
+      "growthRate": 8.1
+    },
+    {
+      "segment": "Segment C",
+      "revenue": 98.7,
+      "growthRate": 2.3
+    }
+  ]
+}
